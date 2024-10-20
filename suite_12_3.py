@@ -1,4 +1,4 @@
-# from tests_12_1 import RunnerTest
+from tests_12_1 import RunnerTest
 from tests_12_2 import TournamentTest
 import unittest
 
